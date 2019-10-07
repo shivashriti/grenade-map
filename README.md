@@ -108,10 +108,13 @@ Unit test cases have been added to check that
 ### Screenshots
 Here are few screenshots of running application taken at **random** steps:
 - **Client sends target**
-![image1](images/Client sends blast target.png)
+
+![image1](images/Client%20sends%20blast%20target.png)
+
 - **Server responds**
 
-![image2](images/Server response.png)
+![image2](images/Server%20response.png)
+
 - **End of the world**
 
-![image3](images/End of the world.png)
+![image3](images/End%20of%20the%20world.png)
